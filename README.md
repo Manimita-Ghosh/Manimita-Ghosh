@@ -1,3 +1,4 @@
+# Hi there! I'm Manimita Ghosh
 - 👋 Hi, I’m Manimita
 - 👀 I’m interested in Data Analytics,Data visualisation,sql,powerBI,excel,Python
 - 💞️ I’m looking to collaborate on Data Analytics and Data visualisation Tool
