@@ -1,10 +1,10 @@
 # Hi there! I'm Manimita Ghosh
-- 👋 Hi, I’m Manimita
+## > About Me
 - 👀 I’m interested in Data Analytics,Data visualisation,sql,powerBI,excel,Python
 - 💞️ I’m looking to collaborate on Data Analytics and Data visualisation Tool
 - 📫 How to reach me manimitaghosh786@gmail.com
 - 😄 Pronouns: Her
-- ⚡ Fun fact: ...
+
 
 <!---
 Manimita-Ghosh/Manimita-Ghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
